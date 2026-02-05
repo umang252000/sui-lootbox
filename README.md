@@ -8,20 +8,20 @@ This project was built for the Sui Move Smart Contract Hackathon – Gaming Trac
 
 ## 📑 Table of Contents
 
-- Overview  
-- Key Features  
-- Architecture  
-- Rarity System  
-- On-Chain Randomness  
-- Pity System (Bonus Feature)  
-- Smart Contract Components  
-- Functions Implemented  
-- Testing  
-- Deployment  
-- Demo Flow  
-- Security Considerations  
-- Future Improvements  
-- Conclusion  
+- [Overview](#-overview)
+- [Key Features](#-key-features)
+- [Architecture](#-architecture)
+- [Rarity System](#-rarity-system)
+- [On-Chain Randomness](#-on-chain-randomness)
+- [Pity System (Bonus Feature)](#-pity-system-bonus-feature)
+- [Smart Contract Components](#-smart-contract-components)
+- [Functions Implemented](#-functions-implemented)
+- [Testing](#-testing)
+- [Deployment](#-deployment)
+- [Demo Flow](#-demo-flow)
+- [Security Considerations](#-security-considerations)
+- [Future Improvements](#-future-improvements)
+- [Conclusion](#-conclusion)
 
 ---
 
