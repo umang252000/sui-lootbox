@@ -1,0 +1,6 @@
+[package]
+name = "lootbox_game"
+version = "0.0.1"
+
+[addresses]
+lootbox_game = "0x0"
